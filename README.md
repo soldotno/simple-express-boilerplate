@@ -1,6 +1,8 @@
 Express 4.x application with the basics
 =======================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/simple-express-boilerplate.svg)](https://greenkeeper.io/)
+
 ### Built with:
 - nodejs
 - express
